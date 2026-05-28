@@ -32,4 +32,5 @@ server:
 
 app:
   classifier:
-    prompt-version: "v3"
+    prompt-version: "v1"
+    prompt-file: "prompts/classifier-prompt-v1.txt"
